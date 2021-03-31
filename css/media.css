@@ -1,0 +1,173 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.menu a {
+    
+    padding: 5px 0px !important;
+    text-align: right }
+
+    .b-content h1 {
+    margin: 20px 0 0;
+font-size: 25px;}
+/*icon*/
+.f-icon li i{
+    margin: 50px 0 0;
+    font-size: 32px;
+    margin-right: 10px;
+}
+/*icon*/
+
+    img{
+   
+    margin: 10px  0 ;
+}
+/*features*/
+.features {
+    padding: 50px 0 60px;
+}
+.s-mt-60{
+        margin-top: 20px;
+}
+.f-h1{
+font-size: 25px;
+    
+}
+.f-p{
+    font-size: 16px;
+  
+}
+.s-text{
+    text-align: center;
+}
+.s-text h2{
+    margin-top: 10px;
+    margin-bottom: 13px;
+    font-size: 20px;
+
+   
+}
+/*contact*/
+.contact{
+    padding: 50px 0 60px;
+    background-color: #010101;
+}
+.f-email{
+    margin-bottom: 5px;
+}
+.f-form {
+    margin: 20px 0 30px;
+}
+.c-icon i{
+    margin:0 10px;
+    font-size: 22px;
+}
+footer{
+    padding-bottom: 60px;
+    
+}
+.f-text{
+ margin-bottom: 20px;
+ text-align: center;
+
+}
+.f-text p a{
+    margin: 0;
+    margin-right: 55px;
+}
+.f-address{
+    margin-bottom:10px;
+
+}
+
+    }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.menu a {
+    
+    padding: 5px 0px !important;
+    text-align: right;
+ }
+   .b-content h1 {
+    margin: 50px 0 0;
+  font-size: 25px;}
+  /*icon*/
+  .f-icon li i{
+    margin: 50px 0 0;
+    font-size: 32px;
+    margin-right: 10px;
+}
+/*icon*/
+    img{
+   
+    margin: 10px  0 ;
+}
+/*features*/
+.features {
+    padding: 60px 0 80px;
+}
+.s-mt-60{
+        margin-top: 40px;
+}
+.f-h1{
+font-size: 30px;
+    
+}
+.f-p{
+    font-size: 16px;
+  
+}
+/*contact*/
+.c-icon i{
+    margin:0 18px;
+    font-size: 25px;
+}
+
+    }
+
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header start*/
+	.menu a {
+    
+    padding: 5px 0px !important;
+    text-align: right;
+}
+    .b-content h1 {
+    margin: 50px 0 0;}
+    img{
+   
+    margin: 10px  0 ;
+}
+/*features*/
+.features {
+    padding: 60px 0 80px;
+}
+.s-mt-60{
+        margin-top: 50px;
+}
+/*contact*/
+.c-icon i{
+    margin:0 20px;
+    font-size: 32px;
+}
+  
+   }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    }
+
+ /* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+   }
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    img{
+   
+    margin: 10px  0 0 130px;
+}
+   }
